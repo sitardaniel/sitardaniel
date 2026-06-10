@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Sitar%20Gold%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=DevOps+Engineer+%7C+Cloud+Architect;Content+Creator+%7C+Public+Speaker;Bridging+Tech+%26+Culture;Automating+Everything+%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=DevOps+Engineer+%7C+Content+Creator;Podcaster+%7C+Public+Speaker;Bridging+Tech+%26+Culture;Automating+Everything+%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a>
 
 <br/>
 
