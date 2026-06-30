@@ -92,11 +92,10 @@ fun_fact: "I automate things so I can be lazy efficiently 😄"
 <div align="center">
 
 | Project | Description | Tech |
-|---------|-------------|------|
-| [**DevOpsLingo**](https://github.com/sitardaniel/DevOpsLingo) | 📚 Learn DevOps terminology through bite-sized lessons and quizzes | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**sitars-robot-dog**](https://github.com/sitardaniel/sitars-robot-dog) | 🤖 TAIL - Robot dog project with AI capabilities | ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| ------- | ----------- | ---- |
 | [**worldofgames2.0**](https://github.com/sitardaniel/worldofgames2.0) | 🎮 Python gaming platform with K8s, CI/CD & Prometheus | ![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| [**devopslingo-infra**](https://github.com/sitardaniel/devopslingo-infra) | ☁️ Infrastructure as Code for DevOpsLingo | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
+| [**Claude Code Training**](https://github.com/sitardaniel/claude-code-traning) | 🤖 Hands-on Claude Code exercises — hooks, MCP, subagents & headless mode | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**DevOpsLingo Feedback**](https://github.com/sitardaniel/devopslingo-feedback/issues) | 💬 Found a bug or want to complain about DevOpsLingo? Open an issue here | ![Feedback](https://img.shields.io/badge/-Open%20an%20Issue-30A14E?style=flat-square&logo=github&logoColor=white) |
 
 </div>
 
