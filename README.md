@@ -93,7 +93,7 @@ fun_fact: "I automate things so I can be lazy efficiently 😄"
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| [**Claude Code Training**](https://github.com/sitardaniel/claude-code-traning) | 🤖 Hands-on Claude Code exercises — hooks, MCP, subagents & headless mode | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**Claude Code Training**](https://github.com/sitardaniel/claude-code-traning) | 🤖 Hands-on Claude Code exercises - hooks, MCP, subagents & headless mode | ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square&logo=openai&logoColor=white) |
 | [**DevOpsLingo Feedback**](https://github.com/sitardaniel/devopslingo-feedback/issues) | 💬 Found a bug or want to complain about DevOpsLingo? Open an issue here | ![Feedback](https://img.shields.io/badge/-Open%20an%20Issue-30A14E?style=flat-square&logo=github&logoColor=white) |
 | [**worldofgames2.0**](https://github.com/sitardaniel/worldofgames2.0) | 🎮 Python gaming platform with K8s, CI/CD & Prometheus | ![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
 
